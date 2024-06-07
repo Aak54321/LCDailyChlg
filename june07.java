@@ -32,6 +32,4 @@ public class june07 {
     dictionary.add("rat");
     System.out.println(replaceWords(dictionary,"the cattle was rattled by the battery"));
   }
- 
-
-}
+ }
